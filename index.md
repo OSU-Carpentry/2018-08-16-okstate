@@ -232,8 +232,6 @@ eventbrite: 48463449482           # optional: alphanumeric key for Eventbrite re
 </p>
 {% endif %}
 
-
-
 <hr/>
 
 {% comment %}
